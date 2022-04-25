@@ -2,6 +2,6 @@ Soru
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 Yanıt
 Binary Search Tree, node’lardan oluşan ve her bir node’un en fazla 2 child node’a sahip olduğu veri yapılarından bir tanesidir.
-Binary Search Treede en üstte bulunan node Root olarak adlandırılır. Yukarıda verilen dizide root olarak "3" sayısı seçilmiştir.
+Binary Search Tree'de en üstte bulunan node Root olarak adlandırılır. Yukarıda verilen dizide root olarak "3" sayısı seçilmiştir.
 Root’tan küçük değere sahip olan node’lar Root’un sol tarafında yer alırken Root’tan büyük değere sahip olan node’lar Root’un sağ tarafında yer almaktadır.
-Yukarıda verilen bilgiler ışığında "3" rakamı root seçilen dizinin binary search tree aşaması ekteki gibidir.
+Yukarıda verilen bilgiler doğrultusunda "3" rakamı root seçilen dizinin binary search tree aşaması ekteki png dosyasında gösterilmiştir.
